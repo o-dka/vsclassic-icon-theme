@@ -1,5 +1,5 @@
 # What is this ?
-This is a fork of  beautiful @jez9999 's vsclassic-icon-theme , hosted on open-vsx.org.
+This is a fork of  beautiful @jez9999 's vsclassic-icon-theme.
 
 ## Visual Studio classic icons theme
 
