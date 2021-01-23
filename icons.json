@@ -63,6 +63,7 @@
 		"pug": {"iconPath": "./icons/mustache.png"},
 		"python": {"iconPath": "./icons/python.png"},
 		"raster": {"iconPath": "./icons/raster.png"},
+		"racket":{"iconpath":"./icons/racket.png"},
 		"react": {"iconPath": "./icons/react.png"},
 		"richtext": {"iconPath": "./icons/richtext.png"},
 		"ruby": {"iconPath": "./icons/ruby.png"},
