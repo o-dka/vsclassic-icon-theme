@@ -4,7 +4,7 @@
 3. Wait for our response! We will usually try to respond in the next 24hrs.
 ## Templates for creating the icon:
   - ![file_template](/icons/file.png) 
-- ![file_color](/icons/javascript.png)
+  - ![file_color](/icons/javascript.png)
  
  ---------------------
  Good luck! All contributors will be credited in the release.
