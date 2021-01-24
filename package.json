@@ -2,7 +2,7 @@
 	"name": "vsclassic-icon-theme",
 	"displayName": "Visual Studio classic icons",
 	"description": "An icon theme for Visual Studio Code taking its inspiration from classic versions of Visual Studio prior to 2012.",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"publisher": "o-dka",
 	"license": "GPL-3.0",
 	"bugs": {
