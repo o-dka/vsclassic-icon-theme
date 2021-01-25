@@ -217,6 +217,7 @@
 		"py": "python",
 		"pyw": "python",
 		"rar": "archive",
+		"rkt": "racket",
 		"rpm": "archive",
 		"rtf": "richtext",
 		"sass": "sass",
@@ -228,6 +229,7 @@
 		"sqlite": "database",
 		"stache": "mustache",
 		"suo": "visual-studio",
+		"ss": "racket",
 		"svg": "vector",
 		"swf": "flash",
 		"tar": "archive",
@@ -253,6 +255,7 @@
 	},
 	"hidesExplorerArrows": true,
 	"languageIds": {
+		
 		"asm": "assembly",
 		"bat": "console",
 		"c": "cpp",
@@ -291,6 +294,7 @@
 		"python": "python",
 		"ruby": "ruby",
 		"rust": "rust",
+		"racket":"racket",
 		"sass": "sass",
 		"scala": "scala",
 		"scss": "sass",
