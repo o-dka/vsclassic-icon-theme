@@ -127,7 +127,7 @@
 		"bmp": "raster",
 		"bz2": "archive",
 		"bzip2": "archive",
-		"c": "c",
+		"c":"c",
 		"cc": "cpp",
 		"cfg": "settings",
 		"cmd": "console",
