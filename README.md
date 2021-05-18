@@ -1,3 +1,4 @@
+![GitHub issues](https://img.shields.io/github/issues/o-dka/vsclassic-icon-theme) 
 # What is this ?
 This is a fork of  beautiful @jez9999 's vsclassic-icon-theme.
 
@@ -8,8 +9,7 @@ This Visual Studio Code icons theme takes its inspiration from classic versions 
 You can contribute your own icons here! If you want to know how, read [CONTRIBUTING.md](https://github.com/o-dka/vsclassic-icon-theme/blob/main/CONTRIBUTING.md)  in our github repository!
 
 ## Original repository
-Repo: https://gitlab.com/jez9999/vsclassic-icon-theme  
+https://gitlab.com/jez9999/vsclassic-icon-theme  
 
 ## Issues here:  
- ![GitHub issues](https://img.shields.io/github/issues/o-dka/vsclassic-icon-theme) \
-Issue tracker: https://github.com/o-dka/vsclassic-icon-theme/issues
+  https://github.com/o-dka/vsclassic-icon-theme/issues
